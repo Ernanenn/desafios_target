@@ -1,0 +1,20 @@
+body {
+    background-image: url('https://chalababa.com.br/wp-content/uploads/2021/04/Espiral-de-Fibonacci-Proporcao-de-Ouro-e1646003530956-700x400.jpg');
+    background-position: center;
+}
+
+h1,
+p {
+    text-align: center;
+}
+
+section {
+    align-items: center;
+    color: whitesmoke;
+    background: brown;
+    border-radius: 10px;
+    padding: 25px;
+    width: 300px;
+    margin: auto;
+    box-shadow: 5px 5px 10px black;
+}
